@@ -20,5 +20,3 @@ A **Stacking Classifier** is used to improve predictive performance by combining
 ## Tech Stack
 - **Languages & Frameworks:** Python, scikit-learn  
 - **Libraries:** NumPy, Pandas, Matplotlib, Seaborn  
-- **Environment:** Jupyter Notebook / Google Colab
-
